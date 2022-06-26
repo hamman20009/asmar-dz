@@ -1,7 +1,8 @@
 const products = [
 	{
 		id: 2,
-		
+		logo:'img/logo.png',
+		image: 'img/1.png',
 		
 		title: 'سيروم فيتوغان ضد تساقط الشعر و الصلع الوراثي   '  ,
 		price1: 3500,
