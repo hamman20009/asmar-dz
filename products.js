@@ -4,7 +4,7 @@ const products = [
 		logo:'img/logo.png',
 		image: 'img/1.jpg',
 		
-		title: 'الحل النهائي لجرثومة المعدة    '  ,
+		title: 'سيروم فيتوغان لتساقط العشر     '  ,
 		price1: 4000,
 		price: 3500,
 		description: '  '  ,
