@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/1.jpg',
+		image: 'img/amani.jpg',
 		
 		
 		title: ' مسمنة Amany لتكبير الارداف و الصدرو القضاء على دهون البطن    ',
