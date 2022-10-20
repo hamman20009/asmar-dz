@@ -3,7 +3,7 @@ const products = [
 		id: 2,
 		logo:'img/logo.png',
 		image: 'img/products/coach.jpg',
-		image2: 'img/products/produit.png',
+		image2: 'img/products/coachr.png',
 		
 		title: ' دورة فن الإلقاء والخطابة بدون أوراق ⏩ ',
 		price1: 5500,
