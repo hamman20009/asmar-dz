@@ -5,10 +5,10 @@ const products = [
 		image: 'img/products/12.png',
 		image2: 'img/products/produit.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
+		title: ' دورة فن الإلقاء والخطابة بدون أوراق ⏩ ',
 		price1: 5500,
 		price: 3000,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		description: '  محاور الدورة '   ,
 		phone: 0,
 	},
 
