@@ -9,7 +9,7 @@ const products = [
 		price1: 5500,
 		price: 3000,
 		description: '  محاور الدورة '   ,
-		phone: 0,
+		phone: 0549217739,
 	},
 
 	
