@@ -1,7 +1,7 @@
 const products = [
 	{
 		id: 2,
-		logo:'img/logo.png',
+		logo:'img/asmar.jpg',
 		image: 'img/products/coach.jpg',
 		image2: 'img/products/coachr.png',
 		
