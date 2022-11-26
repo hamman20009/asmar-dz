@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/amani.jpg',
+		image: 'img/1.jpg',
 		
 		
 		title: '  ممحاة كنزي الاصلية لازالة الشعر الزائد بدون الم   ',
