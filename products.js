@@ -5,9 +5,9 @@ const products = [
 		image: 'img/1.jpg',
 		
 		
-		title: '  ممحاة كنزي الاصلية لازالة الشعر الزائد بدون الم   ',
+		title: '  قطرات طنين الاذن   ',
 		price1: 5500,
-		price: 4500,
+		price: 3500,
 		description: '  '   ,
 		phone: 0554139163,
 	},
