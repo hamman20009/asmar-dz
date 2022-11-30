@@ -5,9 +5,9 @@ const products = [
 		image: 'img/1.jpg',
 		
 		
-		title: '  قطرات طنين الاذن   ',
+		title: '  مشرووب الانطاكي للقضاء على الخلعة    ',
 		price1: 5500,
-		price: 3500,
+		price: 3400,
 		description: '  '   ,
 		phone: 0554139163,
 	},
