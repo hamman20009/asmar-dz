@@ -5,11 +5,11 @@ const products = [
 		image: 'img/1.jpg',
 		
 		
-		title: '  مشرووب الانطاكي للقضاء على الخلعة    ',
-		price1: 5500,
-		price: 3400,
+		title: '  كريمة البواسير الناجحة     ',
+		price1: 4500,
+		price: 3200,
 		description: '  '   ,
-		phone: 0554139163,
+		phone: 0663697856,
 	},
 
 	
