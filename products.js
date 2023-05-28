@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/12.png',
+		image: 'img/1.png',
 		image2: 'img/produit.png',
 		
-		title: ' العلاج النهائي لتساقط و انبات الشعر    ',
-		price1: 5500,
-		price: 3900,
-		description: '  السيروم المكون من 7 زيوت الذي يقضي على الصلع و تساقط الشعر و الشيب المبكر '   ,
+		title: ' فيتوماكس للاناث و الرجال    ',
+		price1: 15500,
+		price: 9500,
+		description: '   '   ,
 		phone: 0,
 	},
 
